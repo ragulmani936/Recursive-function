@@ -60,7 +60,7 @@ namespace exp7
 
 ~~~
 ### Output:
-![output]()
+![output](https://github.com/ragulmani936/Recursive-function/blob/main/img1.png)
 
 ### Result:
 Thus the C# program to reverse a number using recursive function is executed successfully.
